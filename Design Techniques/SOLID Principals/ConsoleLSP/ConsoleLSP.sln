@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLSP", "ConsoleLSP\ConsoleLSP.csproj", "{E16AC9F0-8CE8-4590-B46F-52421080A3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPLibrary", "LSPLibrary\LSPLibrary.csproj", "{C735918E-5CCB-4292-92AD-274EDC45E99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16AC9F0-8CE8-4590-B46F-52421080A3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AC9F0-8CE8-4590-B46F-52421080A3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AC9F0-8CE8-4590-B46F-52421080A3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16AC9F0-8CE8-4590-B46F-52421080A3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C735918E-5CCB-4292-92AD-274EDC45E99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C735918E-5CCB-4292-92AD-274EDC45E99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C735918E-5CCB-4292-92AD-274EDC45E99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C735918E-5CCB-4292-92AD-274EDC45E99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35554E9-66A7-4B7C-8845-B4819E2AD905}
+	EndGlobalSection
+EndGlobal
